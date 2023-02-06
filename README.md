@@ -2,4 +2,6 @@
 
 Hey ✌️
 
-This is a project on Fake News Detection project.
+This is a project on Fake News Detection.
+
+
